@@ -1,0 +1,61 @@
+{
+  "_from": "vue-weblineindia-image-crop-upload",
+  "_id": "vue-weblineindia-image-crop-upload@1.0.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/vue-weblineindia-image-crop-upload",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-weblineindia-image-crop-upload",
+    "name": "vue-weblineindia-image-crop-upload",
+    "escapedName": "vue-weblineindia-image-crop-upload",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "",
+  "_shasum": "",
+  "_spec": "vue-weblineindia-image-crop-upload",
+  "bundleDependencies": false,
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "vue": "^2.6.11",
+    "vuejs-clipper": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "Configurable image preview",
+  "author":  "Weblineindia",
+  "repository": "https://github.com/weblineindia/Vue-Image-Crop-Upload",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+
+  "keywords": [
+    "vue-weblineindia-image-crop-upload",
+    "vue-image-upload",
+    "vue.js image uploader",
+    "vue.js image",
+    "vue image.js",
+    "vue.js uploader",
+    "vue.js",
+    "image",
+    "upload",
+    "multiple",
+    "component",
+    "vue-component",
+    "vue-upload-component"
+  ],
+  "license": "MIT",
+  "main": "dist/upload.vue",
+  "name": "vue-weblineindia-image-crop-upload",
+  "version": "1.0.0",
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}

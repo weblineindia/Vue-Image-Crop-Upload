@@ -1,0 +1,84 @@
+.upload-btn-wrapper {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    vertical-align: middle;
+  }
+  
+  .upload-btn-wrapper .btn {
+    padding: 5px 35px;
+    font-size: 15px;
+    color: #000;
+    background-color: white;
+    border-radius: 5px;
+    border: 2px solid;
+    color: black;
+    background-color: #c9c9d1;
+  }
+  
+  .upload-btn-wrapper input[type="file"] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 100px;
+    opacity: 0;
+  }
+  
+  .img-photo {
+    display: inline-block;
+    width: 85px;
+    height: 85px;
+    margin-right: 30px;
+    line-height: 80px;
+    color: #ddd;
+    text-align: center;
+    vertical-align: middle;
+    background: #fff;
+    border-radius: 50px;
+    border: 2px solid;
+  }
+  
+  .img-photo .img-view {
+    width: 85px !important;
+    height: 85px !important;
+    border-radius: 0 !important;
+    border: 2px solid;
+  }
+  .error-msg {
+    display: inline-block;
+    float: left;
+    width: 100%;
+    //padding-top: 9px;
+    padding-top: 8px;
+    font-size: 18px;
+    font-weight: 500;
+    color: #b70000;
+  }
+  .img-photo-w160 {
+    width: 160px;
+    border-radius: 10px;
+    border: 2px solid;
+  }
+  
+  .img-photo-w160 .img-view {
+    width: 160px !important;
+    border-radius: 10px;
+    border: 2px solid;
+  }
+  
+  .img-photo-h120 {
+    height: 120px;
+    border-radius: 10px;
+    border: 2px solid;
+  }
+  
+  .img-photo-h120 img {
+    margin-top: 40px;
+  }
+  
+  .img-photo-h120 .img-view {
+    height: 120px !important;
+    margin-top: 0;
+    border-radius: 10px;
+    border: 2px solid;
+  }
