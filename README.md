@@ -73,7 +73,7 @@ export default {
 | Prop | Type | default | Description |
 | --- | --- | --- | --- |
 | value | String |   | Set blob url  |
-| id | String |   | id of the component |
+| id | String |   | Id of the component |
 | isCrop | boolean | true  |  Enables crop image |
 | isRoundCrop | boolean | true  |  Use a round clipping area, this only effect the component layout, clipping results are still rectangular|
 | acceptedFiles | Array | image, image/jpeg, image/jpg, image/png, png | Set image type |
