@@ -124,4 +124,4 @@ vue-weblineindia-image-crop-upload is inspired by the [vuejs-clipper](https://ww
 
 ## Keywords
 
-vue-weblineindia-image-crop-upload,vue-image-upload,vue,image-crop,vue-image-crop-upload
+vue, vue-weblineindia-image-crop-upload,vue-image-upload,vue,image-crop,vue-image-crop-upload
