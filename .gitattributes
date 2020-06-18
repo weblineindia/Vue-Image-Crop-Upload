@@ -1,7 +1,6 @@
-*.html linguist-language=Vue
-*.js linguist-language=Vue
-*.ts linguist-language=Vue
 *.css linguist-detectable=false
+*.html linguist-detectable=false
 *.js linguist-detectable=false
 *.java linguist-detectable=false
 *.vue linguist-detectable=true
+*.ts linguist-detectable=true
