@@ -53,7 +53,7 @@
   "license": "MIT",
   "main": "dist/upload.vue",
   "name": "vue-weblineindia-image-crop-upload",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "devDependencies": {
     "node-sass": "^7.0.1",
     "sass-loader": "^13.0.0"
